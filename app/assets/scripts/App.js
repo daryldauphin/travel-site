@@ -7,7 +7,6 @@ import StickyHeader from './modules/sticky-header'
 
 
 
-
 new StickyHeader();
 new RevealOnScroll(document.querySelectorAll(".feature-item"), 75)
 new RevealOnScroll(document.querySelectorAll(".testimonial"), 60)
