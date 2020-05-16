@@ -41,7 +41,7 @@ class RevealOnScroll {
       }
     }
   }
- 
+
   hideInitially() {
     this.itemsToReveal.forEach(el => {
       el.classList.add("reveal-item")
